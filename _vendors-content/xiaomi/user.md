@@ -1,8 +1,8 @@
----
+omid rad ---
 manufacturer: 
     - xiaomi
 
----
+omid rad---
 
 ### App pinning / App locking
 
